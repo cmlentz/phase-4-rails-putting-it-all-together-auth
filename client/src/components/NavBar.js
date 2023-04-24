@@ -30,6 +30,7 @@ function NavBar({ user, setUser }) {
 }
 
 const Wrapper = styled.header`
+  background-color: lightblue;
   display: flex;
   justify-content: center;
   align-items: center;

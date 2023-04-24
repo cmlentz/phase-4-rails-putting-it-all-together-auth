@@ -44,10 +44,12 @@ function RecipeList() {
 const Wrapper = styled.section`
   max-width: 800px;
   margin: 40px auto;
+  background-color: lightblue;
 `;
 
 const Recipe = styled.article`
   margin-bottom: 24px;
+  background-color: aqua;
 `;
 
 export default RecipeList;
